@@ -13,10 +13,10 @@ Gem::Specification.new do |s|
   ## Leave these as is they will be modified for you by the rake gemspec task.
   ## If your rubyforge_project name is different, then edit it and comment out
   ## the sub! line in the Rakefile
-  s.name              = 'acts_as_versioned31'
+  s.name              = 'acts_as_versioned'
   s.version           = '0.6.1'
   s.date              = '2013-07-04'
-  s.rubyforge_project = 'acts_as_versioned31'
+  s.rubyforge_project = 'acts_as_versioned'
 
   ## Make sure your summary is short. The description may be as long
   ## as you like.
@@ -58,7 +58,7 @@ Gem::Specification.new do |s|
     README
     RUNNING_UNIT_TESTS
     Rakefile
-    acts_as_versioned31.gemspec
+    acts_as_versioned.gemspec
     init.rb
     lib/acts_as_versioned.rb
     test/abstract_unit.rb
